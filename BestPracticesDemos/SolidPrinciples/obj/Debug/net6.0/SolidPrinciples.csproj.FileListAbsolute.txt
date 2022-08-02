@@ -1,0 +1,15 @@
+D:\Demos\PerformanceAndBestPractices\BestPracticesDemos\SolidPrinciples\bin\Debug\net6.0\SolidPrinciples.exe
+D:\Demos\PerformanceAndBestPractices\BestPracticesDemos\SolidPrinciples\bin\Debug\net6.0\SolidPrinciples.deps.json
+D:\Demos\PerformanceAndBestPractices\BestPracticesDemos\SolidPrinciples\bin\Debug\net6.0\SolidPrinciples.runtimeconfig.json
+D:\Demos\PerformanceAndBestPractices\BestPracticesDemos\SolidPrinciples\bin\Debug\net6.0\SolidPrinciples.dll
+D:\Demos\PerformanceAndBestPractices\BestPracticesDemos\SolidPrinciples\bin\Debug\net6.0\SolidPrinciples.pdb
+D:\Demos\PerformanceAndBestPractices\BestPracticesDemos\SolidPrinciples\obj\Debug\net6.0\SolidPrinciples.csproj.AssemblyReference.cache
+D:\Demos\PerformanceAndBestPractices\BestPracticesDemos\SolidPrinciples\obj\Debug\net6.0\SolidPrinciples.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demos\PerformanceAndBestPractices\BestPracticesDemos\SolidPrinciples\obj\Debug\net6.0\SolidPrinciples.AssemblyInfoInputs.cache
+D:\Demos\PerformanceAndBestPractices\BestPracticesDemos\SolidPrinciples\obj\Debug\net6.0\SolidPrinciples.AssemblyInfo.cs
+D:\Demos\PerformanceAndBestPractices\BestPracticesDemos\SolidPrinciples\obj\Debug\net6.0\SolidPrinciples.csproj.CoreCompileInputs.cache
+D:\Demos\PerformanceAndBestPractices\BestPracticesDemos\SolidPrinciples\obj\Debug\net6.0\SolidPrinciples.dll
+D:\Demos\PerformanceAndBestPractices\BestPracticesDemos\SolidPrinciples\obj\Debug\net6.0\refint\SolidPrinciples.dll
+D:\Demos\PerformanceAndBestPractices\BestPracticesDemos\SolidPrinciples\obj\Debug\net6.0\SolidPrinciples.pdb
+D:\Demos\PerformanceAndBestPractices\BestPracticesDemos\SolidPrinciples\obj\Debug\net6.0\SolidPrinciples.genruntimeconfig.cache
+D:\Demos\PerformanceAndBestPractices\BestPracticesDemos\SolidPrinciples\obj\Debug\net6.0\ref\SolidPrinciples.dll

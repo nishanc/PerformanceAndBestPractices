@@ -1,0 +1,15 @@
+D:\Demos\PerformanceAndBestPractices\PerformanceDemos\PerfomanceDemos\bin\Debug\net6.0\PerfomanceDemos.exe
+D:\Demos\PerformanceAndBestPractices\PerformanceDemos\PerfomanceDemos\bin\Debug\net6.0\PerfomanceDemos.deps.json
+D:\Demos\PerformanceAndBestPractices\PerformanceDemos\PerfomanceDemos\bin\Debug\net6.0\PerfomanceDemos.runtimeconfig.json
+D:\Demos\PerformanceAndBestPractices\PerformanceDemos\PerfomanceDemos\bin\Debug\net6.0\PerfomanceDemos.dll
+D:\Demos\PerformanceAndBestPractices\PerformanceDemos\PerfomanceDemos\bin\Debug\net6.0\PerfomanceDemos.pdb
+D:\Demos\PerformanceAndBestPractices\PerformanceDemos\PerfomanceDemos\obj\Debug\net6.0\PerfomanceDemos.csproj.AssemblyReference.cache
+D:\Demos\PerformanceAndBestPractices\PerformanceDemos\PerfomanceDemos\obj\Debug\net6.0\PerfomanceDemos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demos\PerformanceAndBestPractices\PerformanceDemos\PerfomanceDemos\obj\Debug\net6.0\PerfomanceDemos.AssemblyInfoInputs.cache
+D:\Demos\PerformanceAndBestPractices\PerformanceDemos\PerfomanceDemos\obj\Debug\net6.0\PerfomanceDemos.AssemblyInfo.cs
+D:\Demos\PerformanceAndBestPractices\PerformanceDemos\PerfomanceDemos\obj\Debug\net6.0\PerfomanceDemos.csproj.CoreCompileInputs.cache
+D:\Demos\PerformanceAndBestPractices\PerformanceDemos\PerfomanceDemos\obj\Debug\net6.0\PerfomanceDemos.dll
+D:\Demos\PerformanceAndBestPractices\PerformanceDemos\PerfomanceDemos\obj\Debug\net6.0\refint\PerfomanceDemos.dll
+D:\Demos\PerformanceAndBestPractices\PerformanceDemos\PerfomanceDemos\obj\Debug\net6.0\PerfomanceDemos.pdb
+D:\Demos\PerformanceAndBestPractices\PerformanceDemos\PerfomanceDemos\obj\Debug\net6.0\PerfomanceDemos.genruntimeconfig.cache
+D:\Demos\PerformanceAndBestPractices\PerformanceDemos\PerfomanceDemos\obj\Debug\net6.0\ref\PerfomanceDemos.dll
