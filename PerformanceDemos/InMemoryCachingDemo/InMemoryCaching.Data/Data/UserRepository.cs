@@ -46,16 +46,6 @@ namespace InMemoryCaching.Data.Data
 
             if (output is not null) return output;
 
-            #region TryGetValue
-            //List<User> users = null;
-
-            //// If found in cache, return cached data
-            //if (_memoryCache.TryGetValue("users", out users))
-            //{
-            //    return users;
-            //}
-            #endregion
-
             output = new()
             {
                 new() { FirstName = "Tim", LastName = "Corey" },
@@ -63,17 +53,10 @@ namespace InMemoryCaching.Data.Data
                 new() { FirstName = "Jane", LastName = "Jones" }
             };
 
-            await Task.Delay(3000);
+            await Task.Delay(3000); // <-- Simulate network latency
 
-            #region MemoryCacheEntryOptions
-            // Set cache options
-            // var cacheOptions = new MemoryCacheEntryOptions()
-            //     .SetAbsoluteExpiration(TimeSpan.FromSeconds(30));
-
-            // _memoryCache.Set("users", output, cacheOptions);
-            #endregion
-
-            _memoryCache.Set("users", output, TimeSpan.FromMinutes(1));
+            _memoryCache.Set("users", output,
+                TimeSpan.FromMinutes(1));
 
             return output;
         }
